@@ -1,0 +1,11 @@
+Model Information:
+* title:	Patrick. Rigged
+* source:	https://sketchfab.com/3d-models/patrick-rigged-19939d59bb5a448bb6ea041d8b931f41
+* author:	talkingben360 (https://sketchfab.com/talkingben360)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Patrick. Rigged" (https://sketchfab.com/3d-models/patrick-rigged-19939d59bb5a448bb6ea041d8b931f41) by talkingben360 (https://sketchfab.com/talkingben360) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

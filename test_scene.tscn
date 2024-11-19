@@ -1,0 +1,12 @@
+[gd_scene load_steps=2 format=3 uid="uid://i7lviudj1pni"]
+
+[ext_resource type="PackedScene" uid="uid://clmewmhd4fv63" path="res://patrick._rigged/scene.gltf" id="1_a0lsx"]
+
+[node name="Test Scene" type="Node3D"]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 3, -2, -1)
+
+[node name="Patrick" parent="." instance=ExtResource("1_a0lsx")]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -3.52176, 1.21488, 0)
+
+[node name="CollisionShape3D" type="CollisionShape3D" parent="Patrick"]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 1.97647, 0.87461, 0.856578)
